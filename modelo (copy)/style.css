@@ -22,3 +22,10 @@ footer {
     text-align: center;
     font-style: italic;
 }
+
+#foto {
+    width: 150px;
+    height: 150px;
+    display: block;
+    margin: auto;
+}
