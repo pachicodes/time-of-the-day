@@ -1,15 +1,12 @@
 body {
-    background: #662954;
+    background: #8d4d7d;
     font: normal 15pt Arial;
-
 }
 
 header {
     color: #fff;
     text-align: center;
-
 }
-
 
 section{
     background: #fff;
@@ -18,12 +15,10 @@ section{
     width: 500px;
     margin: auto;
     box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.534);
-
 }
 
 footer {
     color: #fff;
     text-align: center;
     font-style: italic;
-
 }
